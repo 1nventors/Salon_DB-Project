@@ -66,15 +66,15 @@ Welcome to My Salon, how can I help you?
 
 Please put your phone number here:
 ```
-> 555-1234
+555-1234
 ```
 You are a new customer! Please insert your name:
 ```
-> Alice
+Alice
 ```
 What time would you like to cut, Alice?
 ```
-> 2pm
+2pm
 ```
 I have put you down for a cut at 2pm, Alice.
 
@@ -82,11 +82,11 @@ I have put you down for a cut at 2pm, Alice.
 
 Please put your phone number here:
 ```
-> 555-9999
+555-9999
 ```
 What time would you like to color, Bob?
 ```
-> 3:30pm
+3:30pm
 ```
 I have put you down for a color at 3:30pm, Bob.
 
